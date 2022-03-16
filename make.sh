@@ -9,5 +9,5 @@ if [ -z $PRODUCT ]; then
     exit -1
 fi
 
-7z a Module-$PRODUCT-$(date '+%Y%m%d-%H%M%S').zip ./module/* ./product/$PRODUCT
+7z a Module-$PRODUCT-$(date '+%Y%m%d-%H%M%S').zip ./module/* ./product/$PRODUCT/*
 
