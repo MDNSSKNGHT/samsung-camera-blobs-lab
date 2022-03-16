@@ -194,6 +194,10 @@
     <!-- Quick launch features -->
     <local name="SUPPORT_SWITCH_CAMERA_USING_POWER_KEY_OR_HOME_KEY" value="true"/>
 
+    <!-- new pro/pro video features -->
+
+    <local name="SUPPORT_BACK_WIDE_PRO" value="true"/>
+
     <!-- Single take lite features-->
     <local name="SINGLE_TAKE_USING_CONTINUOUS_AF" value="true"/>
     <local name="SINGLE_TAKE_USING_SCENE_OPTIMIZER" value="false"/>
