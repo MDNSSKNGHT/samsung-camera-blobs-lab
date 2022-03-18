@@ -1,6 +1,6 @@
 {
-  "version": "VERSION",
-  "versionCode": -1,
-  "zipUrl": "https://raw.githubusercontent.com/MDNSSKNGHT/samsung-camera-blobs-lab/Module-TARGET.zip",
-  "changelog": "https://raw.githubusercontent.com/MDNSSKNGHT/samsung-camera-blobs-lab/product/TARGET/changelog.md"
+  "version": "v1.0",
+  "versionCode": 1,
+  "zipUrl": "https://raw.githubusercontent.com/MDNSSKNGHT/samsung-camera-blobs-lab/Module-A50.zip",
+  "changelog": "https://raw.githubusercontent.com/MDNSSKNGHT/samsung-camera-blobs-lab/product/A50/changelog.md"
 }
