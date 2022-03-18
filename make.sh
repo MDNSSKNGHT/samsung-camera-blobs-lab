@@ -40,3 +40,6 @@ substitute 'VERSION' $VERSION module/update.json
 
 7z a Module-$PRODUCT-$(date '+%Y%m%d-%H%M%S').zip ./module/* ./product/$PRODUCT/*
 
+# Reset module/module.prop and module/update.json to its original contents
+git checkout HEAD -- module/module.prop
+git checkout HEAD -- module/update.json
