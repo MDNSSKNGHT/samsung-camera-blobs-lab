@@ -1,7 +1,7 @@
 id=MDNSSKNGHT-Samsung-Camera-Blobs-Lab
 name=Samsung's Camera Blobs Experimentation Lab
-version=VERSION
-versionCode=VERSIONCODE
+version=v1.0
+versionCode=1
 author=MDNSSKNGHT
 description=Unleash your camera's full potential!
 updateJson=https://raw.githubusercontent.com/MDNSSKNGHT/samsung-camera-blobs-lab/master/module/update.json
